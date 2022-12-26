@@ -2,6 +2,7 @@
     "modules": [
       "login",
       "dashboard",
-      "profile"
+      "profile",
+      "product_daily"
     ]
 }
